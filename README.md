@@ -36,7 +36,7 @@ Each day's folder may contain:
 ## 📅 Progress Tracker
 
 * [x] Day 01
-* [x] Day 02
+* [ ] Day 02
 * [ ] Day 03
 * [ ] Day 04
 * [ ] Day 05
