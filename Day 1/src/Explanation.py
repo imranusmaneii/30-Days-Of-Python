@@ -1,8 +1,12 @@
-# ========= DAY 1 ==========
+# ➖➖➖➖➖➖ DAY 1️⃣ ➖➖➖➖➖➖
 
-# ===== TOPICS ===== 
+
+# ➖➖➖➖ TOPICS ➖➖➖➖
+
 # 1. Basic Methods 
 # 2. Data Types 
+
+# ➖➖➖➖➖ ✖️ ➖➖➖➖➖
 
 # 1. Some Basics Methods
 
@@ -39,7 +43,8 @@ print(type(2))#                                 --->  Int
 print(type(3.14))#                              --->  Double
 print(type(1 +3j))#                             --->  Complex
 print(type('Imran'))#                           --->  String
-print(type([1, 2, 3]))#                         --->  List
-print(type({'nam' : 'ImranUsmani'}))#           --->  Dictionary
-print(type({9.8, 3.14, 2.7}))#                  --->  Tuple
+print(type([1, 2, 3]))#                    --->  List
+print(type({'nam' : 'ImranUsmani'}))# --->  Dictionary
+print(type({9.8, 3.14, 2.7}))#           --->  Tuple
 
+# ➖➖➖➖➖ ✖️ ➖➖➖➖➖
